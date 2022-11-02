@@ -1,7 +1,9 @@
 function App() {
   return (
-    <div className="">
-      <h1>React-Tailwindcss</h1>
+    <div className="flex min-h-screen items-center justify-center bg-slate-600">
+      <h1 className="text-3xl font-bold text-white underline">
+        React-Tailwindcss
+      </h1>
     </div>
   );
 }
