@@ -1,4 +1,4 @@
-# react-typescript-eslint-prettier
+# react-tailwindcss
 
 This project is about how to setup a **react** project with **typescript**, **eslint**, **prettier** & **husky**.
 
